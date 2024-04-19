@@ -1,5 +1,5 @@
 #let eidesversicherung(today_str: "") = [
-  #text(size: 16pt)[*Versicherung an Eides Staat*]
+  #text(size: 16pt)[*Versicherung an Eides statt*]
 
   #v(20pt)
   
